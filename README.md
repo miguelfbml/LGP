@@ -1,2 +1,0 @@
-# LGP
-LGP repo
